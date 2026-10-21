@@ -1,0 +1,224 @@
+{
+  "heading": "G10Semantic Fields and Lexical Chains",
+  "topics": [
+    {
+      "heading": "Semantic Fields and Lexical Chains",
+      "questions": [
+
+
+ 
+  {
+    "questionNo": 1,
+    "question": [
+      "Read the passage:<br><b><i>Grandmother Tara had not left her bed since the fever came. She coughed through the night, her skin pale and clammy, and the doctor's bottles of medicine crowded the small table beside her. Each morning she was weaker, and each morning she ate a little less.</i></b>",
+      "<br>A teacher asked the class to identify the semantic field in the passage above. Which label correctly names it?"
+    ],
+    "options": [
+      { "text": "Night-time" },
+      { "text": "Illness" },
+      { "text": "Furniture" },
+      { "text": "Family" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "Read the passage:<br><b><i>All the way to the city, Mr Bose glared out of the train window. His jaw tightened, his fists clenched around his briefcase, and when a stranger brushed past him, he snapped so fiercely that the man stepped back. Even his newspaper was crushed in his furious grip.</i></b>",
+      "<br>Aisha and Marcus read the passage above. Aisha says it builds a semantic field of \"the train\". Marcus says it builds a semantic field of \"anger\".<br>Who is correct?"
+    ],
+    "options": [
+      { "text": "Only Marcus, because \"glared\", \"clenched\", \"snapped\" and \"furious\" all share the meaning of anger." },
+      { "text": "Only Aisha, because the passage takes place on a train." },
+      { "text": "Both, because the passage builds a field of the train and a field of anger." },
+      { "text": "Neither, because the passage does not contain a semantic field." }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "Read the passage:<br><b><i>The lake was perfectly <u>still</u> at dawn. Mist drifted <u>gently</u> over the water, a heron stood motionless in the reeds, and the only sound was the <u>soft</u> lapping of the shallows against the boat. Even the breeze moved softly, barely stirring the leaves.</i></b>",
+      "<br>While annotating the passage, Kavya underlined \"still\", \"gently\" and \"soft\". What atmosphere do these words create?"
+    ],
+    "options": [
+      { "text": "A busy, noisy morning" },
+      { "text": "A tense, threatening silence" },
+      { "text": "A sad, mournful farewell" },
+      { "text": "A calm, peaceful stillness" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "Read the passage:<br><b><i>Every winter, Mrs Okafor knitted scarves for the children on her street. She carried warm bread to the widower next door, sat beside sick neighbours to comfort them through long nights, and gently refused every coin they offered. Her door, and her heart, were always open.</i></b>",
+      "<br>After reading the passage, a teacher asked: \"What impression does the writer give of Mrs Okafor, without describing her directly?\"<br>Which answer correctly explains how the semantic field creates this impression?"
+    ],
+    "options": [
+      { "text": "A field of illness (\"sick\", \"nights\", \"winter\") shows that Mrs Okafor is unwell." },
+      { "text": "A field of money (\"coin\", \"bread\", \"scarves\") shows that Mrs Okafor runs a shop." },
+      { "text": "A field of kindness (\"warm\", \"comfort\", \"gently\", \"open\") shows that Mrs Okafor is generous and caring." },
+      { "text": "A field of anger (\"refused\", \"door\", \"heart\") shows that Mrs Okafor is unfriendly to her neighbours." }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "Read the passage:<br><b><i>The museum was silent after closing time. The guard walked the long corridors, listening to the silence settle over the glass cases. Nothing stirred. Even his footsteps seemed too loud, and when a door creaked somewhere in the dark, the hush that followed felt heavier than before, as if the whole building were holding still.</i></b>",
+      "<br>Rohan was mapping a lexical chain in the passage and wrote down the link \"silent → silence\". Which type of link has he found?"
+    ],
+    "options": [
+      { "text": "Repetition, because the same word is used again" },
+      { "text": "Synonym, because two different words share the same meaning" },
+      { "text": "Related word, because one word is formed from the other, like \"dead\" and \"deadly\"" },
+      { "text": "A semantic field, because the two words share an area of meaning" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "Read the passage:<br><b><i>A single spark leapt from the stove. Within minutes, flames were climbing the curtains, and the family stood in the yard, watching their house fill with smoke. The roof caught next, then the front porch where the children had played. By midnight, all that stood against the dark sky was a blaze that had once been their home.</i></b>",
+      "<br>During a class discussion, students traced a fire chain (\"spark\" → \"flames\" → \"blaze\") and a home chain (\"house\" → \"roof\" → \"home\") through the passage. What happens to these two chains by the final sentence?"
+    ],
+    "options": [
+      { "text": "They stay apart, because fire words and home words never appear in the same sentence." },
+      { "text": "They meet in \"a blaze that had once been their home\", showing that the family's home has become the fire." },
+      { "text": "The fire chain stops after the first sentence, because the family escapes." },
+      { "text": "The home chain grows stronger, because the house is rebuilt by midnight." }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "Read the passage:<br><b><i>For a hundred years the valley had bloomed with orchards, meadows and wild roses. Then the factory came. Its chimneys belched smoke, its engines hammered day and night, and soot settled thickly on every petal and leaf, until the roses stopped blooming altogether.</i></b>",
+      "<br>Ishaan and Clara read the passage above. Ishaan says it contains one semantic field: nature. Clara says it contains two semantic fields that work against each other.<br>Who is correct?"
+    ],
+    "options": [
+      { "text": "Only Clara, because a field of nature (\"bloomed\", \"meadows\", \"roses\") works against a field of industry (\"factory\", \"engines\", \"soot\")." },
+      { "text": "Only Ishaan, because every detail in the passage describes the natural valley." },
+      { "text": "Both, because each student has named a field that appears in the passage." },
+      { "text": "Neither, because the passage does not contain a semantic field." }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "Read the passage:<br><b><i>Night swallowed the mountain hut. Outside, the darkness was total, with only shadow pressing against the glass. Inside, Grandpa Felix struck a match, and a candle in the blackness threw a small gold glow across the faces of the children, bright enough to make them smile.</i></b>",
+      "<br>A teacher told the class that this passage contains two competing semantic fields, light and darkness.<br>She asked them to find the single phrase where the two fields meet. Which phrase should they choose?"
+    ],
+    "options": [
+      { "text": "\"only shadow pressing against the glass\"" },
+      { "text": "\"a small gold glow\"" },
+      { "text": "\"a candle in the blackness\"" },
+      { "text": "\"the faces of the children\"" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "Read the passage:<br><b><i>After the sixteen-hour shift, Farah could barely stand. Her shoulders ached, her eyes burned, and every step home felt heavier than the last. She sank onto the bottom stair, too drained to climb, and fell asleep with her coat still buttoned.</i></b>",
+      "<br>Three students wrote about the passage:<br><b>Priya:</b> \"The writer builds a semantic field of exhaustion through 'ached', 'drained' and 'sank', which makes the reader feel Farah's tiredness in her body.\"<br><b>Omar:</b> \"The writer builds a semantic field of happiness through 'home', 'sank' and 'asleep', which shows that Farah is relaxed and content.\"<br><b>Hannah:</b>   \"The writer creates a lexical chain by repeating the word 'tired' throughout the passage, which shows that Farah needs rest.\"<br>Which response correctly analyses the semantic field?"
+    ],
+    "options": [
+      { "text": "Priya's response" },
+      { "text": "Omar's response" },
+      { "text": "Hannah's response" },
+      { "text": "None of the three responses" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "Read the passage:<br><b><i>The ambulance tore through the streets. Its siren wailed, cars swerved aside, and the driver raced through every junction without slowing. Inside, the paramedics worked fast, their hands darting between monitors as the minutes rushed past. Nobody spoke; there was no time.</i></b>",
+      "<br><b>Vikram wrote:</b> \"The writer uses words like tore, raced and rushed.\"<br>His teacher said the sentence only lists words and needs improving. Which revision correctly improves it?"
+    ],
+    "options": [
+      { "text": "\"The writer uses a semantic field of calm ('tore', 'raced', 'rushed'), which shows that the paramedics are relaxed.\"" },
+      { "text": "\"The writer builds a lexical chain by repeating the word 'speed' in every sentence, which creates urgency.\"" },
+      { "text": "\"The writer uses many words like tore, raced, rushed, swerved and darting.\"" },
+      { "text": "\"The writer uses a semantic field of speed ('tore', 'raced', 'rushed'), which creates urgency and makes the reader feel that every second matters.\"" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "Complete the following sentence using the correct word:<br><b><i>Despite the severe criticism he received, the ambassador maintained a calm and dignified ______ throughout the interview.</i></b>"
+    ],
+    "options": [
+      { "text": "pernicious" },
+      { "text": "mien" },
+      { "text": "rapacious" },
+      { "text": "beyond the shadow of a doubt" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "What is the meaning of pernicious?"
+    ],
+    "options": [
+      { "text": "Showing an outward appearance that reveals a person's character" },
+      { "text": "Causing serious harm, especially in a gradual or hidden way" },
+      { "text": "Extremely greedy and eager to acquire more" },
+      { "text": "Completely certain and impossible to question" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "Complete the following sentence using the correct word:<br><b><i>The corporation's ______ expansion alarmed smaller businesses, as its leaders seemed determined to acquire every competitor regardless of the consequences.</i></b>"
+    ],
+    "options": [
+      { "text": "mien" },
+      { "text": "pernicious" },
+      { "text": "rapacious" },
+      { "text": "a shadow of one's former self" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "What does the idiom beyond a shadow of a doubt mean?"
+    ],
+    "options": [
+      { "text": "In a manner that suggests hidden danger" },
+      { "text": "With an unusually greedy desire for possessions" },
+      { "text": "With complete certainty and no reasonable doubt" },
+      { "text": "In a noticeably weaker condition than before" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 15,
+    "question": [
+      "Complete the following sentence using the correct idiom:<br><b><i>After years of illness, the once-successful athlete was ______, struggling to perform even the activities that had previously seemed effortless.</i></b>"
+    ],
+    "options": [
+      { "text": "beyond the shadow of a doubt" },
+      { "text": "rapacious" },
+      { "text": "pernicious" },
+      { "text": "a shadow of his former self" }
+    ],
+    "answer": 3
+  }
+
+
+]
+
+
+
+
+    }
+  ]
+}
